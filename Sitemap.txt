@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="https://negabaritrossia.github.io"> 
+        <url>
+            <loc>https://negabaritrossia.github.io/index.html</loc>
+            <lastmod>2022-11-10</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>0.8</priority>
+        </url>
+        ...
+    </urlset>
