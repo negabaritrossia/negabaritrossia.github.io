@@ -2,7 +2,7 @@
     <urlset xmlns="https://negabaritrossia.github.io"> 
         <url>
             <loc>https://negabaritrossia.github.io/index.html</loc>
-            <lastmod>2023-02-02</lastmod>
+            <lastmod>2023-02-19</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
